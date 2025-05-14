@@ -16,6 +16,7 @@ Use this tool to:
 |-----------------------|----------------|---------------------|
 | 24 minutes            | medium         | ~13 minutes         |
 | 24 minutes            | small          | ~5 minutes          |
+| 63 minutes            | small          | ~9 minutes          |
 
 This tool uses the [Faster Whisper Library ](https://github.com/SYSTRAN/faster-whisper) to achieve up to 4 times faster transcription than openai whisper. 
 
