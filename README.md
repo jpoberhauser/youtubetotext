@@ -9,7 +9,13 @@ Use this tool to:
 
     * generate a library of text on latest youtube videos to populate your vector DB for RAG.
 
-    * so sentiment analysis or any other kind of text modeling on top of audio from videos. 
+    * do sentiment analysis or any other kind of text modeling on top of audio from videos. 
+
+
+| YouTube Clip Duration | Whisper Model | Transcription Time |
+|-----------------------|----------------|---------------------|
+| 24 minutes            | medium         | ~13 minutes         |
+| 24 minutes            | small          | ~5 minutes          |
 
 This tool uses the [Faster Whisper Library ](https://github.com/SYSTRAN/faster-whisper) to achieve up to 4 times faster transcription than openai whisper. 
 
